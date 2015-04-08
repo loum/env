@@ -31,5 +31,8 @@ alias baipl='cd ~/baip-loader'
 # BAIP munger
 alias baipm='cd ~/baip-munger'
 
+# BAIP munger UI
+alias baipmui='cd ~/baip-munger-ui'
+
 # TROLS stats
 alias trols='cd ~/trols-stats'
