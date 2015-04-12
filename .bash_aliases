@@ -14,25 +14,25 @@ alias mt='make test'
 alias mtl='make test 2>&1 | less'
 
 # baip parser
-alias baipp='cd ~/baip-parser'
+alias baipp='clear; cd~ /baip-parser'
 
 # logga
-alias logga='cd ~/logga'
+alias logga='clear; cd~ /logga'
 
 # configa
-alias configa='cd ~/configa'
+alias configa='clear; cd~ /configa'
 
 # filer
-alias filer='cd ~/filer'
+alias filer='clear; cd~ /filer'
 
 # BAIP loader
-alias baipl='cd ~/baip-loader'
+alias baipl='clear; cd~ /baip-loader'
 
 # BAIP munger
-alias baipm='cd ~/baip-munger'
+alias baipm='clear; cd~ /baip-munger'
 
 # BAIP munger UI
-alias baipmui='cd ~/baip-munger-ui'
+alias baipmui='clear; cd ~/baip-munger-ui'
 
 # TROLS stats
-alias trols='cd ~/trols-stats'
+alias trols='clear; cd ~/trols-stats'
