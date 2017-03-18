@@ -17,16 +17,16 @@ alias mt='make tests'
 alias mtl='make tests 2>&1 | less'
 
 # logga
-alias logga='clear; cd ~/logga'; source venv/bin/activate
+alias logga='clear; cd ~/logga && source venv/bin/activate'
 
 # configa
-alias configa='clear; cd ~/configa'; source venv/bin/activate
+alias configa='clear; cd ~/configa && source venv/bin/activate'
 
 # filer
-alias filer='clear; cd ~/filer'; source venv/bin/activate
+alias filer='clear; cd ~/filer && source venv/bin/activate'
 
 # TROLS stats
-alias trols='clear; cd ~/trols-stats'; source venv/bin/activate
+alias trols='clear; cd ~/trols-stats && source venv/bin/activate'
 
 # TROLS munger UI
-alias trolsui='clear; cd ~/trols-munger-ui'; source/venv/bin/activate
+alias trolsui='clear; cd ~/trols-munger-ui && source /venv/bin/activate'
