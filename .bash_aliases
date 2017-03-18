@@ -29,4 +29,4 @@ alias filer='clear; cd ~/filer && source venv/bin/activate'
 alias trols='clear; cd ~/trols-stats && source venv/bin/activate'
 
 # TROLS munger UI
-alias trolsui='clear; cd ~/trols-munger-ui && source /venv/bin/activate'
+alias trolsui='clear; cd ~/trols-munger-ui && source venv/bin/activate'
