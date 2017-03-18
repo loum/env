@@ -16,29 +16,17 @@ alias gc='git checkout'
 alias mt='make tests'
 alias mtl='make tests 2>&1 | less'
 
-# baip parser
-alias baipp='clear; cd ~/baip-parser'
-
 # logga
-alias logga='clear; cd ~/logga'
+alias logga='clear; cd ~/logga'; source venv/bin/activate
 
 # configa
-alias configa='clear; cd ~/configa'
+alias configa='clear; cd ~/configa'; source venv/bin/activate
 
 # filer
-alias filer='clear; cd ~/filer'
-
-# BAIP loader
-alias baipl='clear; cd ~/baip-loader'
-
-# BAIP munger
-alias baipm='clear; cd ~/baip-munger'
-
-# BAIP munger UI
-alias baipmui='clear; cd ~/baip-munger-ui'
+alias filer='clear; cd ~/filer'; source venv/bin/activate
 
 # TROLS stats
-alias trols='clear; cd ~/trols-stats'
+alias trols='clear; cd ~/trols-stats'; source venv/bin/activate
 
 # TROLS munger UI
-alias trolsui='clear; cd ~/trols-munger-ui'
+alias trolsui='clear; cd ~/trols-munger-ui'; source/venv/bin/activate
